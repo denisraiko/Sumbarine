@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Sumbarine
+
+  Created by Denis Raiko on 21.05.24.
+  
+*/
+"Start Game" = "Start Game";
+"Settings" = "Settings";
+"Score" = "Score";
+
+"Main menu" = "Main menu";
+"Select submarine color" = "Select submarine color";
+"Select enemy" = "Select enemy";
+"Name" = "Name";
+"Settings" = "Settings";
+"Score" = "Score";
+"Red" = "Red";
+"Blue" = "Blue";
+"Crab" = "Crab";
+"Monster" = "Monster";
+

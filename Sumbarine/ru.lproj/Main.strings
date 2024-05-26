@@ -1,0 +1,90 @@
+
+/* Class = "UIButton"; configuration.title = "Blue"; ObjectID = "1EF-ww-pyO"; */
+"1EF-ww-pyO.configuration.title" = "Blue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1EF-ww-pyO"; */
+"1EF-ww-pyO.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Settings"; ObjectID = "6sz-1j-89p"; */
+"6sz-1j-89p.configuration.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6sz-1j-89p"; */
+"6sz-1j-89p.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Main menu"; ObjectID = "BW7-xY-Ucn"; */
+"BW7-xY-Ucn.configuration.title" = "Main menu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BW7-xY-Ucn"; */
+"BW7-xY-Ucn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Dgn-w8-uDU"; */
+"Dgn-w8-uDU.text" = "Date";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Ekt-cv-XGn"; */
+"Ekt-cv-XGn.text" = "Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KDO-ZH-emJ"; */
+"KDO-ZH-emJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "Mk3-tM-cnN"; */
+"Mk3-tM-cnN.text" = "Score";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qui-5B-d9F"; */
+"Qui-5B-d9F.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Main menu"; ObjectID = "VnN-PJ-fTo"; */
+"VnN-PJ-fTo.configuration.title" = "Main menu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VnN-PJ-fTo"; */
+"VnN-PJ-fTo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Select enemy"; ObjectID = "Y05-bq-Fzr"; */
+"Y05-bq-Fzr.text" = "Select enemy";
+
+/* Class = "UIButton"; configuration.title = "Monster"; ObjectID = "dfi-gr-yEN"; */
+"dfi-gr-yEN.configuration.title" = "Monster";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dfi-gr-yEN"; */
+"dfi-gr-yEN.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fzk-KS-vTF"; */
+"fzk-KS-vTF.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Red"; ObjectID = "iJv-re-xsA"; */
+"iJv-re-xsA.configuration.title" = "Red";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iJv-re-xsA"; */
+"iJv-re-xsA.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Score"; ObjectID = "if4-CN-sqv"; */
+"if4-CN-sqv.configuration.title" = "Score";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "if4-CN-sqv"; */
+"if4-CN-sqv.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Crab"; ObjectID = "oTc-b1-YAX"; */
+"oTc-b1-YAX.configuration.title" = "Crab";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oTc-b1-YAX"; */
+"oTc-b1-YAX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "rLN-Wt-dp6"; */
+"rLN-Wt-dp6.text" = "Score";
+
+/* Class = "UILabel"; text = "Select submarine color"; ObjectID = "ucT-ot-pIP"; */
+"ucT-ot-pIP.text" = "Select submarine color";
+
+/* Class = "UIButton"; configuration.title = "Start Game"; ObjectID = "ujg-LI-Hb4"; */
+"ujg-LI-Hb4.configuration.title" = "Start Game";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ujg-LI-Hb4"; */
+"ujg-LI-Hb4.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Score"; ObjectID = "vLw-XR-M7s"; */
+"vLw-XR-M7s.configuration.title" = "Score";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vLw-XR-M7s"; */
+"vLw-XR-M7s.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "wo6-Iq-Ex6"; */
+"wo6-Iq-Ex6.text" = "Settings";
